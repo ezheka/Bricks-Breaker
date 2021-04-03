@@ -4,12 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - bottomBorder
-  - ball
-  - block
-  - ballLightminig
-  - ballBomb
-  - FxTemporaire
+  - Wall
+  - InTrigger
+  - Ball
+  - Block
+  - Slot
+  - RayTriggerL
+  - TopTrigger
   layers:
   - Default
   - TransparentFX
@@ -19,10 +20,10 @@ TagManager:
   - UI
   - 
   - 
-  - Balls
-  - 
-  - 
-  - 
+  - RayTriggerL
+  - RayTriggerR
+  - RayTriggerT
+  - Ball
   - 
   - 
   - 

@@ -5,10 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Bricks Breaker/Scenes/0_Splash.unity
+    guid: 63f4861190d6e448ba2d4db2cfc0cad7
   - enabled: 1
-    path: Assets/Scenes/Main.unity
-    guid: c6cf87e434d0af84c9633aac6c529701
+    path: Assets/Bricks Breaker/Scenes/1_Title.unity
+    guid: 9ad6e15067796437989e56c7c5105510
   - enabled: 1
-    path: Assets/Scenes/Game.unity
-    guid: f8ce6fa47d14c284daead4933f908cc6
+    path: Assets/Bricks Breaker/Scenes/2_Home_My.unity
+    guid: 208019d7ea800a445a725e09b0703b8d
+  - enabled: 0
+    path: Assets/Bricks Breaker/Scenes/2_Home.unity
+    guid: 210f9d6f9b8f84312809b1b32d48d0aa
+  - enabled: 1
+    path: Assets/Bricks Breaker/Scenes/3_Play.unity
+    guid: be90f2bb36874451b83709f84668ec3f
+  - enabled: 0
+    path: Assets/Bricks Breaker/Scenes/4_Result.unity
+    guid: b461f26958a8943c79d8fa2490ddf263
   m_configObjects: {}
